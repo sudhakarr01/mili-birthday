@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Happy Birthday Mili Didi</title>
+  <style>
+    body {
+      background: linear-gradient(to right, #ffecd2, #fcb69f);
+      text-align: center;
+      font-family: 'Segoe UI', sans-serif;
+      padding: 30px;
+      color: #333;
+    }
+    .container {
+      background: white;
+      border-radius: 20px;
+      padding: 20px;
+      max-width: 500px;
+      margin: auto;
+      box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    }
+    h1 {
+      color: #e91e63;
+    }
+    img {
+      width: 100%;
+      border-radius: 15px;
+    }
+    p {
+      font-size: 1.2rem;
+    }
+    audio {
+      margin-top: 20px;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎂 Happy Birthday Mili Didi 🎉</h1>
+    <img src="mili-photo.jpg" alt="Mili Didi" />
+    <p>
+      Dear Mili Didi,<br><br>
+      You are one of the most special people in my life. I feel lucky to call you my sister. <br>
+      May your birthday be filled with love, laughter, and unforgettable moments.<br><br>
+      Lots of love,<br>
+      — Akash ❤️
+    </p>
+    <audio controls autoplay loop>
+      <source src="https://example.com/brother-sister-song.mp3" type="audio/mpeg" />
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</body>
+</html>
